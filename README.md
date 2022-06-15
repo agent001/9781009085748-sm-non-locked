@@ -1,4 +1,5 @@
-# 9781009085748-sm-non-locked
+# A Student's Introduction to English Grammar, 2nd edition by Cambridge University Press
+
 Extracted from https://www.cambridge.org/highereducation/books/a-students-introduction-to-english-grammar/EB0ABC6005935012E5270C8470B2B740#resources
 
 ## Description
